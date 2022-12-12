@@ -1,10 +1,18 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: Javascript
+  percentage: 70
   color: danger
 
-- name: Javascript
+- name: HTML5/CSS3
   percentage: 60
+  color: warning
+
+- name: C#
+  percentage: 50
   color:
+
+- name: Kotlin
+  percentage: 20
+  color: success
 
 - name: Python
   percentage: 10
